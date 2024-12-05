@@ -1,0 +1,1 @@
+This repo contains scripts for automation of ai testing for prediction of various diseases.
