@@ -13,7 +13,7 @@ def chatgpt_predict(input_data):
     messages = [
         {"role": "system", "content": "You need to predict based on the given conditions, whether someone has lung cancer or not."},
         {"role": "user",
-         "content": f"Based on the following details, does the person have lung cancer? Answer with 'YES' or 'NO'.\nDetails: {input_data}"}
+         "content": f"Based on the following details, does the person have lung cancer? Answer with 'YES' or 'NO'. In the input table, if the value of a cell is 2 it means YES and if its 1 it means NO. \nInput table: {input_data}"}
     ]
 
     # Call the OpenAI API
