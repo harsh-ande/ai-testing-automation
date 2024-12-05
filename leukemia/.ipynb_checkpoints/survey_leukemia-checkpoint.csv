@@ -1,0 +1,301 @@
+Age,Gender,FamilyHistory,LabResults_WBC,LabResults_Platelets,LabResults_RBC,Symptoms,GeneticMutation,ExpectedDiagnosis
+18,Male,Yes,71166,23592,3.21,"Fever, Frequent Infections, Pale Skin, Night Sweats",BCR-ABL positive,YES
+18,Male,No,11614,396318,4.37,Fever,None,NO
+58,Female,Yes,51116,84565,2.55,"Bleeding Easily, Swollen Lymph Nodes, Fever, Bone Pain",BCR-ABL positive,YES
+3,Female,No,54428,50674,2.69,"Fatigue, Swollen Lymph Nodes, Pale Skin, Bleeding Easily, Night Sweats",BCR-ABL positive,YES
+31,Male,Yes,68795,30916,2.96,"Bone Pain, Bleeding Easily, Fever, Fatigue",BCR-ABL positive,YES
+66,Female,Yes,63021,48092,2.85,"Frequent Infections, Bleeding Easily, Night Sweats, Swollen Lymph Nodes, Fatigue",BCR-ABL positive,YES
+54,Female,No,91782,53957,2.18,"Bleeding Easily, Frequent Infections, Pale Skin, Night Sweats",BCR-ABL positive,YES
+79,Female,Yes,4626,302180,4.57,Fever,None,NO
+67,Female,Yes,4608,373942,4.36,Fatigue,None,NO
+66,Male,Yes,99613,28147,3.36,"Pale Skin, Frequent Infections, Bone Pain, Night Sweats, Fatigue",BCR-ABL positive,YES
+74,Female,Yes,7385,235001,5.38,"Frequent Infections, Fever",None,NO
+5,Female,Yes,75897,48868,3.12,"Frequent Infections, Swollen Lymph Nodes, Pale Skin, Night Sweats",None,YES
+29,Female,No,11939,159556,4.54,Bleeding Easily,None,NO
+66,Female,No,81082,42935,3.08,"Bone Pain, Fever, Bleeding Easily, Pale Skin",BCR-ABL positive,YES
+1,Female,No,76311,59425,1.59,"Fever, Bone Pain, Bleeding Easily, Swollen Lymph Nodes, Fatigue",None,YES
+60,Male,No,66129,41822,3.25,"Fever, Frequent Infections, Pale Skin, Fatigue, Bone Pain, Swollen Lymph Nodes",BCR-ABL positive,YES
+42,Male,Yes,54954,87861,1.55,"Bleeding Easily, Bone Pain, Frequent Infections, Pale Skin, Night Sweats",None,YES
+9,Female,No,11716,206020,5.41,Swollen Lymph Nodes,None,NO
+12,Male,No,96950,53333,2.36,"Frequent Infections, Pale Skin, Fatigue, Night Sweats",None,YES
+46,Male,Yes,64026,90984,2.59,"Frequent Infections, Night Sweats, Fever, Fatigue, Bleeding Easily",None,YES
+18,Male,Yes,60951,70194,2.17,"Frequent Infections, Fatigue, Bone Pain, Fever, Bleeding Easily",BCR-ABL positive,YES
+45,Male,No,99659,72231,3.31,"Swollen Lymph Nodes, Pale Skin, Fatigue, Night Sweats, Bone Pain",None,YES
+59,Male,No,84658,93004,2.85,"Swollen Lymph Nodes, Fever, Pale Skin, Night Sweats",BCR-ABL positive,YES
+47,Female,No,93300,81412,2.82,"Bleeding Easily, Fatigue, Night Sweats, Frequent Infections, Swollen Lymph Nodes, Pale Skin",BCR-ABL positive,YES
+57,Male,No,71358,31099,2.13,"Fatigue, Fever, Swollen Lymph Nodes, Pale Skin, Bleeding Easily",None,YES
+49,Male,Yes,11141,283704,5.04,Fatigue,None,NO
+17,Female,Yes,92197,89163,1.71,"Bleeding Easily, Fever, Night Sweats, Swollen Lymph Nodes",None,YES
+11,Male,Yes,82341,80966,1.89,"Fatigue, Night Sweats, Bleeding Easily, Fever, Pale Skin",None,YES
+58,Female,Yes,11738,321330,5.11,,None,NO
+8,Male,Yes,8975,381553,4.16,"Bleeding Easily, Pale Skin",None,NO
+29,Female,Yes,86499,98025,3.05,"Bone Pain, Frequent Infections, Pale Skin, Fatigue, Bleeding Easily",BCR-ABL positive,YES
+39,Male,Yes,80979,95564,2.19,"Pale Skin, Frequent Infections, Bone Pain, Fatigue, Fever",BCR-ABL positive,YES
+14,Female,No,80229,53194,3.04,"Pale Skin, Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Fever, Fatigue",BCR-ABL positive,YES
+48,Female,No,50934,29107,3.45,"Frequent Infections, Fever, Fatigue, Pale Skin",BCR-ABL positive,YES
+4,Male,No,75214,29638,3.15,"Pale Skin, Bone Pain, Fever, Bleeding Easily, Night Sweats, Frequent Infections",None,YES
+61,Female,Yes,61352,67220,3.45,"Bleeding Easily, Bone Pain, Fever, Swollen Lymph Nodes, Night Sweats",None,YES
+20,Male,Yes,53610,30204,1.83,"Bleeding Easily, Pale Skin, Frequent Infections, Bone Pain, Night Sweats",BCR-ABL positive,YES
+22,Male,No,58860,44047,2.36,"Fever, Night Sweats, Pale Skin, Swollen Lymph Nodes, Frequent Infections, Bone Pain",None,YES
+30,Female,No,82291,73749,2.03,"Pale Skin, Night Sweats, Bleeding Easily, Swollen Lymph Nodes, Fatigue, Fever",None,YES
+76,Male,No,56952,32398,2.62,"Bleeding Easily, Frequent Infections, Bone Pain, Pale Skin",BCR-ABL positive,YES
+33,Male,No,9001,210158,5.06,"Bleeding Easily, Fatigue",None,NO
+52,Female,No,91379,57764,2.74,"Fever, Night Sweats, Pale Skin, Frequent Infections, Fatigue, Swollen Lymph Nodes",None,YES
+68,Female,Yes,72675,45270,1.52,"Bleeding Easily, Fever, Pale Skin, Bone Pain, Fatigue, Night Sweats",None,YES
+40,Male,No,96373,48631,2.19,"Fatigue, Bone Pain, Fever, Pale Skin, Frequent Infections",BCR-ABL positive,YES
+72,Male,No,84048,49726,2.63,"Bleeding Easily, Bone Pain, Frequent Infections, Pale Skin, Fever",None,YES
+12,Female,Yes,5065,305027,4.53,Pale Skin,None,NO
+54,Female,Yes,10497,391366,4.28,Swollen Lymph Nodes,None,NO
+45,Female,No,64523,58880,2.98,"Bone Pain, Swollen Lymph Nodes, Fever, Fatigue",None,YES
+62,Female,No,85904,72650,3.41,"Frequent Infections, Night Sweats, Pale Skin, Fatigue",BCR-ABL positive,YES
+20,Male,No,83182,75768,2.02,"Pale Skin, Bone Pain, Frequent Infections, Fever",BCR-ABL positive,YES
+76,Female,Yes,92090,38333,1.81,"Frequent Infections, Fever, Bleeding Easily, Fatigue, Pale Skin",BCR-ABL positive,YES
+22,Female,No,83494,76529,2.69,"Bleeding Easily, Fever, Bone Pain, Swollen Lymph Nodes",None,YES
+39,Female,No,69397,51720,1.61,"Bleeding Easily, Night Sweats, Pale Skin, Fatigue, Swollen Lymph Nodes, Bone Pain",BCR-ABL positive,YES
+78,Female,No,94428,36672,1.91,"Pale Skin, Night Sweats, Bone Pain, Frequent Infections, Fever",None,YES
+39,Male,No,9107,358806,4.6,,None,NO
+55,Female,Yes,60790,42949,2.03,"Bone Pain, Pale Skin, Fever, Fatigue, Frequent Infections",BCR-ABL positive,YES
+46,Male,Yes,4988,208942,5.17,,None,NO
+43,Male,No,85617,47375,2.53,"Bone Pain, Bleeding Easily, Pale Skin, Night Sweats",BCR-ABL positive,YES
+52,Female,No,6728,304247,4.31,Bone Pain,None,NO
+53,Male,Yes,51685,75410,2.92,"Fatigue, Bleeding Easily, Bone Pain, Frequent Infections, Swollen Lymph Nodes, Pale Skin",None,YES
+27,Female,Yes,91724,88284,1.85,"Bleeding Easily, Night Sweats, Pale Skin, Fatigue",None,YES
+60,Male,Yes,95433,57862,2.03,"Frequent Infections, Fatigue, Night Sweats, Bleeding Easily, Swollen Lymph Nodes, Pale Skin",None,YES
+11,Female,No,83227,33797,1.65,"Pale Skin, Fatigue, Frequent Infections, Night Sweats, Bleeding Easily",None,YES
+40,Male,Yes,5260,226738,4.62,"Fever, Night Sweats",None,NO
+10,Male,No,54736,81937,1.76,"Pale Skin, Bleeding Easily, Frequent Infections, Fatigue, Bone Pain",None,YES
+48,Female,No,74742,76785,2.05,"Frequent Infections, Swollen Lymph Nodes, Fever, Pale Skin",None,YES
+28,Male,No,79191,40801,2.41,"Fatigue, Pale Skin, Frequent Infections, Bleeding Easily, Fever, Bone Pain",None,YES
+7,Female,No,6464,243647,5.22,,None,NO
+71,Male,Yes,90136,24630,2.44,"Fatigue, Night Sweats, Frequent Infections, Swollen Lymph Nodes, Bleeding Easily",BCR-ABL positive,YES
+37,Male,No,96029,64856,3.35,"Pale Skin, Fever, Bone Pain, Night Sweats, Bleeding Easily, Fatigue",None,YES
+72,Female,No,50813,66865,1.63,"Swollen Lymph Nodes, Pale Skin, Night Sweats, Bone Pain",None,YES
+15,Male,No,7135,308494,4.13,Pale Skin,None,NO
+78,Female,No,82900,91493,2.44,"Fatigue, Bone Pain, Fever, Pale Skin, Frequent Infections, Night Sweats",BCR-ABL positive,YES
+10,Male,Yes,98156,27575,2.41,"Bleeding Easily, Frequent Infections, Swollen Lymph Nodes, Fatigue, Night Sweats, Fever",None,YES
+52,Female,Yes,95231,78279,3.17,"Pale Skin, Fatigue, Bleeding Easily, Frequent Infections, Bone Pain",BCR-ABL positive,YES
+51,Male,Yes,51362,64012,3.13,"Frequent Infections, Bone Pain, Swollen Lymph Nodes, Fatigue, Night Sweats",None,YES
+31,Male,Yes,58603,29359,1.98,"Bleeding Easily, Swollen Lymph Nodes, Frequent Infections, Fever",BCR-ABL positive,YES
+1,Male,Yes,10600,319887,5.11,,None,NO
+71,Female,Yes,98711,86102,2.78,"Night Sweats, Bone Pain, Fever, Frequent Infections",BCR-ABL positive,YES
+49,Female,No,91560,57837,3.0,"Swollen Lymph Nodes, Frequent Infections, Night Sweats, Bleeding Easily, Fatigue, Bone Pain",None,YES
+6,Female,Yes,61781,59951,2.38,"Bone Pain, Fatigue, Bleeding Easily, Fever",BCR-ABL positive,YES
+80,Male,No,85108,73952,1.89,"Bone Pain, Fatigue, Swollen Lymph Nodes, Frequent Infections, Pale Skin",None,YES
+26,Male,Yes,77096,24927,1.76,"Fatigue, Bleeding Easily, Night Sweats, Swollen Lymph Nodes, Fever, Pale Skin",BCR-ABL positive,YES
+65,Female,Yes,6257,210540,4.59,,None,NO
+10,Female,Yes,10335,333241,4.26,Fever,None,NO
+32,Female,No,73675,28030,1.66,"Pale Skin, Frequent Infections, Bone Pain, Fever",None,YES
+31,Male,No,96788,70238,1.93,"Swollen Lymph Nodes, Fatigue, Fever, Frequent Infections, Night Sweats, Pale Skin",None,YES
+65,Female,No,7230,241255,4.79,,None,NO
+14,Female,Yes,63770,75093,1.69,"Fever, Pale Skin, Bleeding Easily, Frequent Infections, Night Sweats",BCR-ABL positive,YES
+62,Male,Yes,74112,22391,3.16,"Bone Pain, Night Sweats, Fever, Swollen Lymph Nodes",BCR-ABL positive,YES
+74,Male,Yes,91684,80813,3.35,"Fever, Fatigue, Bleeding Easily, Pale Skin",None,YES
+57,Male,No,10367,246236,4.88,,None,NO
+50,Male,Yes,51498,52204,3.31,"Fever, Frequent Infections, Bone Pain, Fatigue, Bleeding Easily, Swollen Lymph Nodes",BCR-ABL positive,YES
+24,Male,No,10491,232154,4.09,"Swollen Lymph Nodes, Fever",None,NO
+44,Female,No,72747,92828,3.13,"Bleeding Easily, Swollen Lymph Nodes, Fever, Bone Pain, Pale Skin, Night Sweats",BCR-ABL positive,YES
+23,Female,Yes,80822,29460,3.28,"Fatigue, Fever, Swollen Lymph Nodes, Frequent Infections, Pale Skin",BCR-ABL positive,YES
+7,Female,Yes,79990,59894,2.05,"Bone Pain, Night Sweats, Fatigue, Bleeding Easily, Frequent Infections",BCR-ABL positive,YES
+68,Male,Yes,76366,95428,1.87,"Pale Skin, Bleeding Easily, Night Sweats, Frequent Infections, Bone Pain, Fever",None,YES
+28,Female,Yes,64589,74737,2.74,"Bleeding Easily, Fatigue, Frequent Infections, Pale Skin",None,YES
+80,Male,Yes,10187,164359,4.98,Fever,None,NO
+11,Male,No,92367,77531,2.96,"Bone Pain, Fever, Night Sweats, Frequent Infections, Pale Skin",BCR-ABL positive,YES
+67,Female,No,93965,85967,2.26,"Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Fatigue, Night Sweats, Fever",None,YES
+48,Female,Yes,6884,325064,5.39,"Frequent Infections, Fever",None,NO
+39,Male,No,93303,39460,3.14,"Pale Skin, Night Sweats, Bleeding Easily, Fever, Bone Pain, Swollen Lymph Nodes",None,YES
+47,Female,Yes,72442,54970,2.33,"Night Sweats, Swollen Lymph Nodes, Fatigue, Bleeding Easily, Fever, Frequent Infections",BCR-ABL positive,YES
+32,Female,Yes,60336,39540,3.33,"Frequent Infections, Pale Skin, Bone Pain, Fever, Night Sweats",None,YES
+72,Male,No,61925,91771,2.3,"Fatigue, Bone Pain, Frequent Infections, Pale Skin, Night Sweats",None,YES
+80,Male,No,55134,52041,2.54,"Fever, Frequent Infections, Bleeding Easily, Pale Skin, Swollen Lymph Nodes",None,YES
+73,Male,Yes,67965,63253,1.96,"Fever, Night Sweats, Bone Pain, Frequent Infections",BCR-ABL positive,YES
+9,Male,Yes,99876,76944,3.04,"Night Sweats, Fatigue, Bleeding Easily, Bone Pain, Fever, Pale Skin",None,YES
+58,Female,Yes,53496,24823,2.78,"Fever, Pale Skin, Frequent Infections, Bone Pain, Fatigue",BCR-ABL positive,YES
+39,Female,Yes,7215,283133,5.07,Pale Skin,None,NO
+63,Female,No,11707,190249,5.11,Frequent Infections,None,NO
+71,Female,Yes,62889,41696,2.85,"Fatigue, Fever, Bleeding Easily, Night Sweats, Pale Skin, Frequent Infections",None,YES
+74,Male,Yes,85213,25165,1.59,"Swollen Lymph Nodes, Bone Pain, Pale Skin, Fatigue",None,YES
+11,Male,Yes,65715,65000,2.33,"Fatigue, Fever, Bleeding Easily, Bone Pain",None,YES
+48,Female,Yes,76980,49694,2.12,"Fever, Frequent Infections, Night Sweats, Bone Pain, Bleeding Easily, Fatigue",BCR-ABL positive,YES
+3,Female,Yes,73089,78598,2.92,"Fever, Bone Pain, Pale Skin, Fatigue",None,YES
+29,Male,No,96132,59033,2.75,"Frequent Infections, Night Sweats, Fever, Fatigue",None,YES
+78,Male,Yes,90826,29317,3.23,"Bleeding Easily, Frequent Infections, Bone Pain, Night Sweats, Pale Skin, Fever",None,YES
+49,Male,Yes,79652,47070,2.02,"Pale Skin, Night Sweats, Bleeding Easily, Fever, Bone Pain",None,YES
+2,Female,Yes,85730,46650,3.32,"Bleeding Easily, Night Sweats, Swollen Lymph Nodes, Bone Pain, Fever, Fatigue",None,YES
+72,Female,No,7614,194475,4.2,Bone Pain,None,NO
+65,Female,Yes,4864,215580,5.02,,None,NO
+7,Female,No,62163,25995,1.59,"Fatigue, Fever, Bleeding Easily, Bone Pain",None,YES
+67,Female,No,11117,337185,4.14,"Bone Pain, Pale Skin",None,NO
+45,Female,Yes,64317,31627,2.85,"Fever, Frequent Infections, Night Sweats, Fatigue, Bone Pain",BCR-ABL positive,YES
+46,Male,No,4806,268231,4.8,Fatigue,None,NO
+20,Female,No,53699,42964,1.66,"Fever, Bone Pain, Frequent Infections, Bleeding Easily, Fatigue, Night Sweats",BCR-ABL positive,YES
+35,Male,Yes,82399,88703,1.75,"Bone Pain, Frequent Infections, Night Sweats, Swollen Lymph Nodes, Fever",None,YES
+68,Female,Yes,85536,87231,2.65,"Pale Skin, Bleeding Easily, Frequent Infections, Swollen Lymph Nodes",BCR-ABL positive,YES
+20,Male,No,63718,91835,1.69,"Fever, Night Sweats, Bone Pain, Bleeding Easily, Frequent Infections",None,YES
+72,Male,No,98517,68547,1.97,"Night Sweats, Fatigue, Swollen Lymph Nodes, Bleeding Easily, Frequent Infections",BCR-ABL positive,YES
+49,Female,No,89250,72992,2.56,"Swollen Lymph Nodes, Bone Pain, Frequent Infections, Fatigue, Bleeding Easily, Night Sweats",BCR-ABL positive,YES
+37,Female,Yes,74341,76113,1.68,"Bone Pain, Night Sweats, Fatigue, Fever, Swollen Lymph Nodes, Pale Skin",None,YES
+50,Male,Yes,58495,51930,1.93,"Fatigue, Fever, Bone Pain, Swollen Lymph Nodes, Bleeding Easily",BCR-ABL positive,YES
+35,Male,Yes,51101,94990,2.83,"Bleeding Easily, Frequent Infections, Pale Skin, Swollen Lymph Nodes",None,YES
+12,Female,No,94758,56028,2.55,"Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Fatigue",BCR-ABL positive,YES
+77,Female,Yes,4427,245100,4.09,"Pale Skin, Frequent Infections",None,NO
+57,Male,No,93660,80615,3.41,"Swollen Lymph Nodes, Pale Skin, Bleeding Easily, Night Sweats, Fever",None,YES
+43,Male,No,8323,379340,4.93,"Fatigue, Swollen Lymph Nodes",None,NO
+71,Female,Yes,90828,28976,3.08,"Fever, Pale Skin, Frequent Infections, Bleeding Easily, Swollen Lymph Nodes",BCR-ABL positive,YES
+36,Male,No,87840,86837,3.02,"Frequent Infections, Pale Skin, Swollen Lymph Nodes, Fever",BCR-ABL positive,YES
+42,Male,Yes,96258,81575,1.7,"Fatigue, Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Fever",BCR-ABL positive,YES
+72,Male,Yes,77323,28971,2.87,"Frequent Infections, Swollen Lymph Nodes, Bleeding Easily, Bone Pain, Fatigue",BCR-ABL positive,YES
+32,Male,No,97536,46258,1.55,"Bleeding Easily, Frequent Infections, Fever, Fatigue, Night Sweats",BCR-ABL positive,YES
+78,Female,No,5998,286307,5.35,,None,NO
+16,Male,No,62530,20801,3.45,"Night Sweats, Bone Pain, Bleeding Easily, Frequent Infections",BCR-ABL positive,YES
+33,Female,No,62492,50510,3.35,"Frequent Infections, Bone Pain, Bleeding Easily, Pale Skin",None,YES
+55,Male,Yes,7869,397375,4.76,,None,NO
+63,Female,Yes,74217,53396,2.64,"Frequent Infections, Pale Skin, Fatigue, Fever, Bleeding Easily",BCR-ABL positive,YES
+4,Female,No,4609,184836,4.95,,None,NO
+52,Male,Yes,71529,52917,2.18,"Swollen Lymph Nodes, Fatigue, Pale Skin, Night Sweats",BCR-ABL positive,YES
+68,Female,Yes,80233,27216,3.44,"Frequent Infections, Bleeding Easily, Bone Pain, Fever, Night Sweats, Fatigue",None,YES
+75,Male,Yes,63778,26172,2.09,"Fever, Fatigue, Frequent Infections, Bleeding Easily, Pale Skin",BCR-ABL positive,YES
+26,Male,No,72593,61472,2.11,"Frequent Infections, Pale Skin, Fever, Fatigue",BCR-ABL positive,YES
+40,Male,Yes,67570,90552,2.97,"Fatigue, Swollen Lymph Nodes, Bone Pain, Frequent Infections, Bleeding Easily",BCR-ABL positive,YES
+11,Female,Yes,72836,61298,2.25,"Fatigue, Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Fever, Pale Skin",BCR-ABL positive,YES
+64,Female,No,97351,20662,2.01,"Swollen Lymph Nodes, Fatigue, Frequent Infections, Pale Skin, Fever",BCR-ABL positive,YES
+6,Male,Yes,10146,312552,4.44,Pale Skin,None,NO
+70,Female,Yes,50608,51936,2.54,"Fever, Bleeding Easily, Swollen Lymph Nodes, Frequent Infections, Fatigue",BCR-ABL positive,YES
+22,Female,No,10521,321265,4.43,,None,NO
+18,Male,No,75022,43610,3.5,"Pale Skin, Frequent Infections, Night Sweats, Swollen Lymph Nodes",BCR-ABL positive,YES
+3,Female,No,98143,56992,2.47,"Night Sweats, Swollen Lymph Nodes, Frequent Infections, Pale Skin",None,YES
+53,Male,No,51578,73501,2.26,"Frequent Infections, Swollen Lymph Nodes, Bone Pain, Fatigue, Fever, Bleeding Easily",None,YES
+40,Male,Yes,56320,76479,1.74,"Fatigue, Bone Pain, Night Sweats, Frequent Infections, Fever",BCR-ABL positive,YES
+32,Female,No,90018,36789,1.93,"Pale Skin, Night Sweats, Frequent Infections, Bleeding Easily",None,YES
+54,Female,No,94574,96160,3.46,"Bone Pain, Swollen Lymph Nodes, Pale Skin, Bleeding Easily",BCR-ABL positive,YES
+66,Male,Yes,66101,36864,1.95,"Fatigue, Night Sweats, Pale Skin, Frequent Infections",BCR-ABL positive,YES
+60,Female,Yes,61591,95226,2.38,"Frequent Infections, Bone Pain, Night Sweats, Swollen Lymph Nodes",BCR-ABL positive,YES
+24,Male,No,90231,31553,1.56,"Fever, Bleeding Easily, Pale Skin, Frequent Infections, Fatigue",None,YES
+24,Male,Yes,66788,53429,2.71,"Fever, Bone Pain, Swollen Lymph Nodes, Bleeding Easily, Fatigue, Frequent Infections",None,YES
+70,Female,No,85466,53815,1.88,"Fatigue, Night Sweats, Swollen Lymph Nodes, Fever",None,YES
+43,Male,Yes,72508,90593,1.86,"Swollen Lymph Nodes, Pale Skin, Fever, Night Sweats",None,YES
+25,Male,No,84055,94125,1.98,"Frequent Infections, Swollen Lymph Nodes, Bleeding Easily, Pale Skin, Fever, Bone Pain",BCR-ABL positive,YES
+53,Male,Yes,89378,79500,2.3,"Bleeding Easily, Frequent Infections, Fatigue, Swollen Lymph Nodes, Fever",BCR-ABL positive,YES
+39,Female,Yes,6415,218920,4.85,Frequent Infections,None,NO
+77,Male,No,64961,94226,2.92,"Pale Skin, Night Sweats, Bone Pain, Fatigue, Swollen Lymph Nodes",None,YES
+49,Female,Yes,99412,82274,1.54,"Pale Skin, Night Sweats, Bone Pain, Frequent Infections",BCR-ABL positive,YES
+67,Female,Yes,62593,69589,2.34,"Bleeding Easily, Fatigue, Frequent Infections, Pale Skin, Bone Pain",BCR-ABL positive,YES
+48,Male,No,71449,68874,2.15,"Bleeding Easily, Night Sweats, Fatigue, Frequent Infections",BCR-ABL positive,YES
+47,Male,Yes,68792,39121,3.37,"Night Sweats, Swollen Lymph Nodes, Pale Skin, Fatigue, Fever",BCR-ABL positive,YES
+24,Male,No,86795,90591,1.95,"Pale Skin, Fever, Bone Pain, Bleeding Easily",None,YES
+26,Male,No,11335,266411,5.28,Bleeding Easily,None,NO
+56,Male,No,10710,345984,4.98,Frequent Infections,None,NO
+78,Male,Yes,91415,50726,1.81,"Swollen Lymph Nodes, Fatigue, Bleeding Easily, Pale Skin, Night Sweats, Fever",None,YES
+62,Female,Yes,52838,31286,3.47,"Night Sweats, Fatigue, Pale Skin, Bleeding Easily, Bone Pain",None,YES
+9,Male,No,60752,24685,1.91,"Pale Skin, Night Sweats, Bone Pain, Frequent Infections",None,YES
+76,Male,No,75336,78802,2.55,"Bone Pain, Night Sweats, Swollen Lymph Nodes, Frequent Infections, Pale Skin, Fatigue",BCR-ABL positive,YES
+3,Male,No,74334,35868,2.45,"Frequent Infections, Swollen Lymph Nodes, Pale Skin, Bleeding Easily, Fatigue, Bone Pain",BCR-ABL positive,YES
+41,Male,Yes,73914,65569,2.78,"Night Sweats, Pale Skin, Frequent Infections, Fever, Fatigue, Bleeding Easily",None,YES
+65,Male,No,67023,83706,3.4,"Night Sweats, Frequent Infections, Fever, Bleeding Easily, Fatigue, Swollen Lymph Nodes",None,YES
+21,Female,Yes,98973,86493,3.46,"Swollen Lymph Nodes, Bleeding Easily, Night Sweats, Frequent Infections, Fever",BCR-ABL positive,YES
+74,Female,No,5889,218467,4.5,Fever,None,NO
+31,Male,No,67436,97905,2.55,"Night Sweats, Pale Skin, Swollen Lymph Nodes, Bleeding Easily, Fever",None,YES
+65,Male,No,55728,34068,3.37,"Fatigue, Night Sweats, Fever, Bone Pain",None,YES
+10,Female,No,59399,96193,3.02,"Fatigue, Swollen Lymph Nodes, Pale Skin, Frequent Infections, Night Sweats, Bone Pain",BCR-ABL positive,YES
+62,Male,Yes,62256,32965,2.1,"Fatigue, Bone Pain, Bleeding Easily, Pale Skin",None,YES
+3,Male,Yes,71588,20099,3.31,"Pale Skin, Fever, Night Sweats, Frequent Infections, Fatigue",BCR-ABL positive,YES
+1,Male,No,56980,95440,2.62,"Night Sweats, Fatigue, Bone Pain, Swollen Lymph Nodes",None,YES
+63,Female,No,55840,21887,2.75,"Night Sweats, Swollen Lymph Nodes, Frequent Infections, Bone Pain, Fever",BCR-ABL positive,YES
+47,Female,No,55292,28319,2.77,"Frequent Infections, Night Sweats, Bone Pain, Bleeding Easily, Fatigue, Swollen Lymph Nodes",None,YES
+21,Female,Yes,80159,82064,1.89,"Pale Skin, Bleeding Easily, Swollen Lymph Nodes, Night Sweats, Fatigue, Fever",BCR-ABL positive,YES
+75,Female,No,6443,269258,5.28,"Night Sweats, Fever",None,NO
+51,Male,Yes,4285,308235,5.44,"Fever, Night Sweats",None,NO
+56,Male,No,55942,34709,2.73,"Bone Pain, Fever, Fatigue, Frequent Infections, Swollen Lymph Nodes",BCR-ABL positive,YES
+76,Female,No,69752,42350,1.7,"Fever, Night Sweats, Swollen Lymph Nodes, Fatigue, Frequent Infections",None,YES
+51,Male,Yes,94117,84111,1.89,"Fatigue, Bone Pain, Night Sweats, Swollen Lymph Nodes",None,YES
+52,Female,Yes,96582,24663,2.49,"Swollen Lymph Nodes, Frequent Infections, Fever, Bone Pain",None,YES
+40,Female,No,11606,199109,4.43,,None,NO
+56,Male,Yes,71220,40073,3.44,"Bone Pain, Frequent Infections, Bleeding Easily, Night Sweats, Fever",BCR-ABL positive,YES
+22,Female,No,54567,71418,2.1,"Swollen Lymph Nodes, Bone Pain, Frequent Infections, Night Sweats, Fever, Bleeding Easily",None,YES
+1,Male,Yes,93936,96554,3.13,"Bleeding Easily, Night Sweats, Fever, Swollen Lymph Nodes",None,YES
+33,Female,Yes,86822,61754,1.84,"Bone Pain, Pale Skin, Fever, Bleeding Easily, Frequent Infections",BCR-ABL positive,YES
+24,Male,No,10760,288946,4.36,"Bleeding Easily, Pale Skin",None,NO
+35,Female,No,6703,236413,4.19,Bleeding Easily,None,NO
+59,Male,Yes,78264,35558,2.69,"Frequent Infections, Bleeding Easily, Fever, Night Sweats, Swollen Lymph Nodes, Fatigue",BCR-ABL positive,YES
+69,Female,No,54333,69848,1.78,"Bone Pain, Pale Skin, Fever, Bleeding Easily, Frequent Infections, Fatigue",None,YES
+45,Female,Yes,4903,285033,4.16,,None,NO
+45,Female,No,69096,56443,2.15,"Frequent Infections, Swollen Lymph Nodes, Bone Pain, Fever",None,YES
+23,Male,No,99057,43728,2.5,"Fever, Frequent Infections, Swollen Lymph Nodes, Bleeding Easily, Night Sweats, Fatigue",None,YES
+61,Male,No,59173,93762,1.55,"Pale Skin, Night Sweats, Bleeding Easily, Swollen Lymph Nodes, Fever",BCR-ABL positive,YES
+68,Female,No,86591,94143,2.04,"Bone Pain, Pale Skin, Swollen Lymph Nodes, Fatigue, Night Sweats, Bleeding Easily",BCR-ABL positive,YES
+13,Male,No,55257,84959,2.71,"Bone Pain, Fever, Pale Skin, Swollen Lymph Nodes, Bleeding Easily, Frequent Infections",None,YES
+11,Male,Yes,86154,84058,2.83,"Fever, Bleeding Easily, Pale Skin, Night Sweats",None,YES
+66,Female,No,92160,22621,2.06,"Fatigue, Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Night Sweats",BCR-ABL positive,YES
+10,Male,No,59258,32293,3.04,"Bleeding Easily, Pale Skin, Bone Pain, Night Sweats, Frequent Infections",BCR-ABL positive,YES
+46,Male,No,52651,91596,3.44,"Night Sweats, Bleeding Easily, Bone Pain, Swollen Lymph Nodes, Fatigue, Fever",None,YES
+59,Male,No,54338,68173,1.52,"Pale Skin, Bone Pain, Night Sweats, Swollen Lymph Nodes, Fever, Fatigue",BCR-ABL positive,YES
+59,Female,No,9312,347516,4.89,Fatigue,None,NO
+64,Male,No,80427,22152,3.42,"Swollen Lymph Nodes, Night Sweats, Frequent Infections, Fatigue, Pale Skin, Bleeding Easily",None,YES
+52,Male,Yes,81755,99826,3.16,"Bone Pain, Fatigue, Bleeding Easily, Frequent Infections, Fever, Night Sweats",BCR-ABL positive,YES
+5,Female,No,74838,71500,3.41,"Night Sweats, Bleeding Easily, Frequent Infections, Bone Pain, Swollen Lymph Nodes",BCR-ABL positive,YES
+37,Male,Yes,51026,47706,1.6,"Pale Skin, Fever, Bleeding Easily, Night Sweats",None,YES
+47,Male,Yes,73784,45862,3.01,"Fever, Night Sweats, Frequent Infections, Bone Pain, Bleeding Easily, Fatigue",None,YES
+7,Female,Yes,63918,68890,2.37,"Night Sweats, Fever, Pale Skin, Fatigue, Swollen Lymph Nodes, Bleeding Easily",None,YES
+28,Male,Yes,89205,63309,3.48,"Swollen Lymph Nodes, Frequent Infections, Pale Skin, Bleeding Easily, Bone Pain",None,YES
+74,Female,No,71602,24725,2.5,"Pale Skin, Bleeding Easily, Fatigue, Bone Pain, Frequent Infections",None,YES
+26,Male,No,94935,20095,2.09,"Swollen Lymph Nodes, Bone Pain, Pale Skin, Fatigue, Bleeding Easily",None,YES
+17,Male,No,5711,152310,5.44,"Fever, Bone Pain",None,NO
+79,Female,Yes,59817,78723,2.3,"Bleeding Easily, Pale Skin, Fever, Swollen Lymph Nodes, Frequent Infections, Night Sweats",BCR-ABL positive,YES
+57,Female,Yes,58847,58151,2.28,"Frequent Infections, Night Sweats, Fatigue, Swollen Lymph Nodes, Bone Pain, Pale Skin",BCR-ABL positive,YES
+51,Male,No,73670,35642,3.08,"Pale Skin, Fatigue, Night Sweats, Bone Pain, Frequent Infections",BCR-ABL positive,YES
+33,Male,Yes,50724,87339,2.22,"Pale Skin, Fever, Night Sweats, Bleeding Easily, Fatigue",None,YES
+27,Male,Yes,65298,62856,3.23,"Pale Skin, Fever, Frequent Infections, Night Sweats, Fatigue",BCR-ABL positive,YES
+73,Female,No,82920,67297,2.73,"Night Sweats, Bleeding Easily, Frequent Infections, Fatigue",None,YES
+44,Female,Yes,84877,35787,2.09,"Pale Skin, Fever, Fatigue, Swollen Lymph Nodes",BCR-ABL positive,YES
+6,Female,No,63977,98052,1.89,"Pale Skin, Night Sweats, Fever, Swollen Lymph Nodes",None,YES
+62,Male,Yes,52101,75127,1.85,"Night Sweats, Fatigue, Swollen Lymph Nodes, Fever",None,YES
+16,Female,Yes,66695,92365,1.52,"Pale Skin, Fatigue, Fever, Night Sweats",BCR-ABL positive,YES
+24,Female,No,6481,230895,5.13,"Night Sweats, Frequent Infections",None,NO
+8,Male,Yes,7640,231854,5.21,"Bleeding Easily, Pale Skin",None,NO
+68,Female,No,70276,90389,2.8,"Night Sweats, Swollen Lymph Nodes, Fatigue, Pale Skin, Bleeding Easily, Bone Pain",None,YES
+21,Male,No,96816,65617,1.66,"Swollen Lymph Nodes, Fever, Pale Skin, Night Sweats, Frequent Infections, Fatigue",None,YES
+30,Male,No,11490,335074,4.7,,None,NO
+38,Male,No,8235,276343,4.13,,None,NO
+41,Female,No,84860,50228,1.62,"Fever, Fatigue, Bone Pain, Bleeding Easily, Night Sweats",BCR-ABL positive,YES
+34,Male,Yes,63295,37068,2.8,"Swollen Lymph Nodes, Bleeding Easily, Fatigue, Pale Skin, Fever",None,YES
+47,Female,Yes,99204,77886,2.23,"Fever, Pale Skin, Night Sweats, Swollen Lymph Nodes",None,YES
+26,Female,No,8801,349726,4.49,"Bone Pain, Night Sweats",None,NO
+38,Female,No,68259,92488,2.33,"Bone Pain, Pale Skin, Night Sweats, Fatigue, Swollen Lymph Nodes",None,YES
+24,Male,No,57870,48921,2.2,"Fever, Pale Skin, Frequent Infections, Bone Pain",None,YES
+23,Male,No,74249,82790,3.17,"Night Sweats, Fever, Pale Skin, Bone Pain",BCR-ABL positive,YES
+78,Male,Yes,7807,368842,4.6,Fever,None,NO
+19,Female,Yes,10828,305558,5.37,"Fever, Pale Skin",None,NO
+12,Male,No,94177,52736,3.17,"Bone Pain, Bleeding Easily, Pale Skin, Fever, Night Sweats",BCR-ABL positive,YES
+34,Female,No,58532,21016,3.16,"Night Sweats, Swollen Lymph Nodes, Fatigue, Frequent Infections, Bone Pain, Bleeding Easily",None,YES
+63,Male,Yes,72946,83120,1.71,"Bone Pain, Fever, Night Sweats, Bleeding Easily, Frequent Infections, Pale Skin",BCR-ABL positive,YES
+26,Male,No,65933,66260,3.03,"Night Sweats, Frequent Infections, Fever, Bone Pain",BCR-ABL positive,YES
+25,Male,Yes,55271,70666,2.74,"Bone Pain, Bleeding Easily, Night Sweats, Fever, Fatigue, Frequent Infections",None,YES
+9,Female,No,60304,59129,3.5,"Swollen Lymph Nodes, Frequent Infections, Fatigue, Night Sweats",BCR-ABL positive,YES
+41,Female,No,70334,86713,2.12,"Fever, Swollen Lymph Nodes, Bone Pain, Bleeding Easily, Fatigue",None,YES
+52,Female,Yes,79368,34355,3.08,"Swollen Lymph Nodes, Frequent Infections, Pale Skin, Fever, Bone Pain, Night Sweats",BCR-ABL positive,YES
+62,Female,Yes,98343,44169,2.89,"Bone Pain, Frequent Infections, Fever, Fatigue, Bleeding Easily, Pale Skin",BCR-ABL positive,YES
+32,Female,Yes,58102,72197,1.77,"Swollen Lymph Nodes, Fever, Frequent Infections, Night Sweats, Fatigue, Bone Pain",BCR-ABL positive,YES
+57,Male,No,84824,40476,2.99,"Pale Skin, Fever, Frequent Infections, Night Sweats, Bone Pain",None,YES
+14,Female,No,98868,56537,1.79,"Night Sweats, Bone Pain, Fatigue, Swollen Lymph Nodes, Pale Skin, Bleeding Easily",BCR-ABL positive,YES
+23,Female,No,55827,20797,3.22,"Swollen Lymph Nodes, Bone Pain, Frequent Infections, Fever",BCR-ABL positive,YES
+72,Male,No,84695,52257,1.97,"Pale Skin, Fever, Bone Pain, Bleeding Easily, Fatigue, Frequent Infections",BCR-ABL positive,YES
+79,Male,No,74521,67770,2.8,"Fever, Frequent Infections, Pale Skin, Fatigue, Swollen Lymph Nodes, Bone Pain",None,YES
+78,Female,No,54263,84410,1.85,"Bleeding Easily, Fever, Pale Skin, Fatigue",None,YES
+24,Male,No,70245,43740,2.8,"Night Sweats, Fever, Bleeding Easily, Frequent Infections, Fatigue",BCR-ABL positive,YES
+36,Male,Yes,92935,35147,1.65,"Pale Skin, Night Sweats, Bone Pain, Fatigue, Frequent Infections",BCR-ABL positive,YES
+9,Female,Yes,60365,38091,2.98,"Fatigue, Pale Skin, Bleeding Easily, Frequent Infections, Bone Pain",None,YES
+61,Male,No,56050,42212,3.37,"Night Sweats, Fatigue, Swollen Lymph Nodes, Fever",None,YES
+15,Female,Yes,7876,370483,4.2,Bone Pain,None,NO
+65,Male,Yes,66918,83782,2.49,"Night Sweats, Fever, Swollen Lymph Nodes, Fatigue, Pale Skin",BCR-ABL positive,YES
+2,Female,Yes,78075,32707,2.89,"Fatigue, Bone Pain, Fever, Frequent Infections, Bleeding Easily, Pale Skin",BCR-ABL positive,YES
+56,Male,Yes,64450,38800,3.03,"Fever, Swollen Lymph Nodes, Fatigue, Bleeding Easily, Pale Skin, Night Sweats",None,YES
+14,Male,No,52197,98197,1.54,"Fever, Night Sweats, Bone Pain, Swollen Lymph Nodes",BCR-ABL positive,YES
+5,Male,No,98004,66684,3.07,"Fatigue, Bone Pain, Night Sweats, Bleeding Easily, Frequent Infections",BCR-ABL positive,YES
+25,Male,No,66566,84682,2.61,"Bleeding Easily, Fatigue, Night Sweats, Frequent Infections",BCR-ABL positive,YES
+52,Male,No,72159,30839,1.99,"Bleeding Easily, Swollen Lymph Nodes, Frequent Infections, Fatigue",None,YES
+22,Female,No,10499,317716,4.86,"Pale Skin, Bone Pain",None,NO
+6,Male,No,76321,82016,1.51,"Fatigue, Night Sweats, Fever, Bleeding Easily",BCR-ABL positive,YES
+46,Female,No,64643,47293,3.44,"Night Sweats, Bone Pain, Pale Skin, Bleeding Easily, Frequent Infections, Fatigue",BCR-ABL positive,YES
+31,Female,No,75831,98145,2.49,"Pale Skin, Fever, Frequent Infections, Swollen Lymph Nodes, Night Sweats",None,YES
+66,Male,No,60316,35767,3.19,"Bone Pain, Fever, Night Sweats, Swollen Lymph Nodes, Frequent Infections, Bleeding Easily",BCR-ABL positive,YES
+53,Female,Yes,78894,65388,1.83,"Bone Pain, Fever, Swollen Lymph Nodes, Pale Skin",None,YES
+18,Male,Yes,50381,43746,2.65,"Night Sweats, Frequent Infections, Pale Skin, Fatigue, Bleeding Easily, Bone Pain",None,YES

@@ -1,0 +1,8 @@
+
+Automation Test Summary:
+------------------------
+Total Test Cases: 300
+Passed: 280
+Failed: 20
+Pass Rate: 93.33%
+Fail Rate: 6.67%
