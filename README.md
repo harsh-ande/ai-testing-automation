@@ -1,9 +1,11 @@
 This repo contains scripts for automation of ai testing for prediction of various diseases.
 
 ## Documentation
-Deliverable 1 https://docs.google.com/document/d/1TH6YRstemGCZDjK1TGT13lmQfvOwbS9OFryXHd0HiRY/edit?tab=t.0
+Deliverable 0 https://docs.google.com/document/d/1DIy4QMXhuN1WTugkHYvzlEG9dk33igfnvJtSaABSPIA/edit?usp=sharing
 
-Deliverable 2A https://docs.google.com/document/d/1bgyftC6yqj4RCiM3Pox7gRTZbQzmsumiEoOpZ-HgIUA/edit?tab=t.0
+Deliverable 1 https://docs.google.com/document/d/1TH6YRstemGCZDjK1TGT13lmQfvOwbS9OFryXHd0HiRY/edit?usp=sharing
+
+Deliverable 2A https://docs.google.com/document/d/1bgyftC6yqj4RCiM3Pox7gRTZbQzmsumiEoOpZ-HgIUA/edit?usp=sharing
 
 Deliverable 2B https://sjsu0-my.sharepoint.com/:w:/g/personal/chaitanyanaidu_guntipalli_sjsu_edu/ER5IACpLtupKqowT9niSBiMBDanA9ATzKPbE-JHTrrBIog?e=417okn
 
